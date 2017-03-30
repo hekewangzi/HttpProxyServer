@@ -1,0 +1,5 @@
+# HttpProxyServer
+Http/Https代理服务器服务端
+
+先在服务器上运行HttpProxyServer，再在你的电脑上运行HttpProxyClient即可实现代理 
+若需代理Google、Youtube等网站，运行HttpProxyServer的服务器要能访问这些网站，香港或国外的服务器都可以
